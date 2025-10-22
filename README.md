@@ -36,6 +36,9 @@ ZARR:\"https://projects.pawsey.org.au/vzarr/SEALEVEL_GLO_PHY_L4.parquet\"
 ## gs://gcp-public-data-arco-era5
 
 
+https://bsky.app/profile/satellitesci.bsky.social/post/3lbvo6rw7sk2j
+
+
 url ?? 
 
 ```
